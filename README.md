@@ -1,6 +1,3 @@
-#University Management System
-
+<h1>University Managemet System</h1>
 
 This project is a University Management System implemented in C++. The system allows users to manage buildings, rooms, offices, and classrooms within a university setting. The project demonstrates object-oriented programming principles such as inheritance, polymorphism, and encapsulation.
-
-This project was created by İpek Gültekin.
